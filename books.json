@@ -1,0 +1,62 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "id": 1
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "id": 2
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "id": 3
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "id": 4
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "id": 5
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "id": 6
+    },
+    {
+        "title": "The Fool's Assassin",
+        "author": "Robin Hobb",
+        "id": 7
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "id": 8
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R Tolkien",
+        "id": 9
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "id": 10
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "id": 11
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "id": 12
+    }
+]
